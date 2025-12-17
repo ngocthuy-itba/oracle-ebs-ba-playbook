@@ -1,10 +1,9 @@
-# BR110 vs BR150 – When and Why
+# BR150 – Abstract Sample
 
-This document explains the **difference between BR110 and BR150** and their use cases.
+This is an **abstracted BR150 example** used to illustrate structure and thinking.
 
-## Comparison Overview
-| Aspect | BR110 | BR150 |
-|------|------|------|
-| Level | High-level | Detailed |
-| Usage | Early phase | Design phase |
+## Scope
+- Simplified business scenario
+- Dummy data only
 
+> This sample does not represent any real client implementation.
