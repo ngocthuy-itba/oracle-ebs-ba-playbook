@@ -1,8 +1,13 @@
 # Master Data Governance Rules
 
-This document defines **generic data governance and validation rules**.
+This document defines **generic governance principles**.
 
-## Principles
-- Accuracy
-- Consistency
-- Ownership
+## Governance Principles
+- Single source of truth
+- Controlled changes
+- Auditability
+
+## Change Handling
+- Change Request
+- Approval
+- Data update
