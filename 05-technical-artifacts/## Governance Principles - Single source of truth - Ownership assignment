@@ -1,0 +1,20 @@
+# DO070 – Data Migration Overview
+
+## Purpose
+Describe the approach to migrate legacy data into ERP system.
+
+## Migration Phases
+- Data profiling
+- Data cleansing
+- Data mapping
+- Data loading
+- Validation
+
+## Key Risks
+- Data inconsistency
+- Duplicate records
+- Business disruption
+
+## BA Role
+- Validate business meaning of data
+- Support UAT validation
