@@ -1,13 +1,18 @@
-# BR100 – How to Write
+# BR100 – Business Requirement Document
 
-This document provides guidance on writing a **BR100 Business Requirement document** following Oracle AIM principles.
+BR100 captures **high-level business needs** and defines project scope.
 
-## Purpose
-- Capture business needs
-- Define scope and assumptions
+## Objectives
+- Define business problems
+- Align stakeholders early
+- Prevent scope creep
 
-## Key Sections
+## Core Sections
+- Business Background
 - Business Objectives
-- Current State
+- In-Scope / Out-of-Scope
 - High-Level Requirements
 - Assumptions & Constraints
+
+## BA Notes
+BR100 should avoid solution details and focus on business intent.
