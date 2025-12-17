@@ -1,9 +1,11 @@
 # BR150 – Abstract Sample
 
-This is an **abstracted BR150 example** used to illustrate structure and thinking.
+This document illustrates the **structure and thinking** of a BR150.
 
-## Scope
-- Simplified business scenario
-- Dummy data only
+## Content Scope
+- Functional scenarios
+- Business rules (generic)
+- Dummy data examples
 
-> This sample does not represent any real client implementation.
+## Data Policy
+All examples are sanitized and non-client-specific.
