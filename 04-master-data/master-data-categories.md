@@ -1,9 +1,13 @@
-# Master Data Categories in Oracle EBS
+# Master Data Categories – Oracle EBS
 
-This document lists common **master data categories** used in Oracle EBS.
+This document outlines **key master data domains** in Oracle EBS.
 
-## Categories
-- Item
-- Supplier
-- Customer
-- Chart of Accounts
+## Core Categories
+- Item Master
+- Supplier Master
+- Customer Master
+- Organization & Ledger
+
+## BA Responsibility
+- Identify ownership
+- Define validation rules
