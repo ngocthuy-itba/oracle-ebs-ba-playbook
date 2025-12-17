@@ -1,7 +1,12 @@
-# BP080 – Purpose and Scope
+# BP080 – Business Process Design
 
-This document explains the purpose of **BP080 in Oracle EBS projects**.
+BP080 documents **TO-BE business processes** aligned with Oracle EBS.
 
 ## Objectives
-- Define TO-BE processes
-- Align business and system behavior
+- Define future-state operations
+- Align system behavior with business needs
+
+## Content Coverage
+- Process scope
+- Key activities
+- Roles & responsibilities
