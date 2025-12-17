@@ -1,15 +1,18 @@
 # BA Deliverables by Project Phase
 
-This document maps **key BA deliverables** to each phase of an Oracle EBS project.
+This document maps **core BA deliverables** to each Oracle EBS project phase.
 
-## Deliverable Mapping
-| Phase | Key Deliverables |
-|------|----------------|
-| Requirement | BR100, BR110, BR150 |
-| Design | BP080, MD050 |
-| Build | MD070, CEMLI |
-| Testing | TE050 |
-| Governance | CR, Minutes |
+## Deliverable Matrix
 
-> Deliverables listed are representative and not exhaustive.
+| Phase | Key Deliverables | Purpose |
+|-----|----------------|--------|
+| Initiation | Project Charter | Alignment |
+| Requirement | BR100, BR110 | Scope & needs |
+| Design | BR150, BP080, MD050 | Solution definition |
+| Build | MD070, CEMLI | System realization |
+| Testing | TE050 | Validation |
+| Governance | CR, Minutes | Control & traceability |
 
+## BA Accountability
+- Maintain consistency across documents
+- Ensure traceability from requirement to solution
