@@ -1,10 +1,14 @@
-# Procure-to-Pay – Generic Flow
+# Procure-to-Pay – Generic Process Flow
 
-This document outlines a **generic Procure-to-Pay process** without client-specific rules.
+This document describes a **standard Procure-to-Pay flow**.
 
-## Key Steps
-- Requisition
-- Purchase Order
-- Receipt
-- Invoice
-- Payment
+## Process Steps
+1. Requisition
+2. Approval
+3. Purchase Order
+4. Receipt
+5. Invoice
+6. Payment
+
+## Notes
+Process is illustrative and excludes client-specific controls.
